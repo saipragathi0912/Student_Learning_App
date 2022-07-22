@@ -1,0 +1,2 @@
+class Chaptersummary < ApplicationRecord
+end
